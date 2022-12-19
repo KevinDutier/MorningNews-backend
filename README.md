@@ -1,7 +1,7 @@
 ## Deployment
 https://morningnews-vercel.vercel.app/
 
-# MorningNews - Frontend
+# MorningNews - Backend
 
 MorningNews is a project that was made using React and Next JS during my Web Developper coding bootcamp at La Capsule, Paris.
 
